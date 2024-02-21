@@ -1,0 +1,8 @@
+C:\Users\mrttkn\Desktop\Projects\ExceptionMail\bin\Debug\ExceptionMail.exe.config
+C:\Users\mrttkn\Desktop\Projects\ExceptionMail\bin\Debug\ExceptionMail.exe
+C:\Users\mrttkn\Desktop\Projects\ExceptionMail\bin\Debug\ExceptionMail.pdb
+C:\Users\mrttkn\Desktop\Projects\ExceptionMail\obj\Debug\ExceptionMail.csproj.AssemblyReference.cache
+C:\Users\mrttkn\Desktop\Projects\ExceptionMail\obj\Debug\ExceptionMail.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrttkn\Desktop\Projects\ExceptionMail\obj\Debug\ExceptionMail.csproj.CoreCompileInputs.cache
+C:\Users\mrttkn\Desktop\Projects\ExceptionMail\obj\Debug\ExceptionMail.exe
+C:\Users\mrttkn\Desktop\Projects\ExceptionMail\obj\Debug\ExceptionMail.pdb
